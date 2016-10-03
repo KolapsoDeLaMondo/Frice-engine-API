@@ -1,9 +1,9 @@
 # Frice-engine-API #
 请参见：
 
- Frice Engine 软件包                 |
-:------------------------------------|:---
- org.frice.game                     |
+|Frice Engine 软件包                 ||
+:------------------------------------|:----:
+| org.frice.game                     ||
 | org.frice.game.anim                ||
 | org.frice.game.anim.move           ||
 | org.frice.game.scale               ||
