@@ -3,7 +3,7 @@
 
 |Frice Engine 软件包                 ||
 :-------------------|:----:
-| org.frice.game                     ||
+| [org.frice.game](org.gorce.game/README.md)                     ||
 | org.frice.game.anim                ||
 | org.frice.game.anim.move           ||
 | org.frice.game.scale               ||
