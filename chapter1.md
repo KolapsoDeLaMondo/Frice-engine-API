@@ -6,7 +6,7 @@
 
 | 类摘要  |   |  
 |----| --- |
-|[Game](game.md)||
+|[Game](org_force_game/game.md)||
 
 
 
