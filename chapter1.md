@@ -4,9 +4,9 @@
 ---
 请参见：  
 
-| 类摘要  |   |  
-|----| --- |
-|[Game](org_force_game/game.md)||
+类摘要  |  | 
+----| --- 
+[Game](org_force_game/game.md)| |
 
 
 
