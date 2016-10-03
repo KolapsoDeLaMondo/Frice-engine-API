@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [org](chapter1.md)
+* [org.force.game](chapter1.md)
 
