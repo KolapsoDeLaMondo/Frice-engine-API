@@ -19,9 +19,9 @@ protected open fun customDraw(g: Graphics2D): Unit||
 
 方法|用法|
 -----|-----|  
-public final infix fun addObject(obj: AbstractObject): Unit||
-public final infix fun addObjects(objs: Array< AbstractObject >): Unit||
-public final infix fun addObjects(objs: Collection< AbstractObject >): Unit|将对象加入游戏窗口|
+public final infix fun addObject(obj: AbstractObject): Unit|添加对象到游戏窗口|
+public final infix fun addObjects(objs: Array< AbstractObject >): Unit|添加对象到游戏窗口|
+public final infix fun addObjects(objs: Collection< AbstractObject >): Unit|添加对象到游戏窗口|
 public final infix fun removeObject(obj: AbstractObject): Unit||
 public final infix fun removeObjects(objs: Array< AbstractObject >): Unit||
 public final infix fun removeObjects(objs: Collection< AbstractObject >): Unit||
