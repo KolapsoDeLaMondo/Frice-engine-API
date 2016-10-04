@@ -25,9 +25,9 @@ public final infix fun addObjects(objs: Collection< AbstractObject >): Unit|添�
 public final infix fun removeObject(obj: AbstractObject): Unit|从游戏窗口移除对象|
 public final infix fun removeObjects(objs: Array< AbstractObject >): Unit|从游戏窗口移除对象|
 public final infix fun removeObjects(objs: Collection< AbstractObject >): Unit|从游戏窗口移除对象|
-public final infix fun addTimeListener(listener: FTimeListener): Boolean||
-public final infix fun addTimeListeners(listeners: Array< FTimeListener >): Unit||
-public final infix fun addTimeListeners(listeners: Collection< FTimeListener >): Unit||
+public final infix fun addTimeListener(listener: FTimeListener): Boolean|添加一个计时器，当计时器超时时被调用|
+public final infix fun addTimeListeners(listeners: Array< FTimeListener >): Unit|添加一组计时器，当计时器超时时被调用|
+public final infix fun addTimeListeners(listeners: Collection< FTimeListener >): Unit|添加一组计时器，当计时器超时时被调用|
 public final infix fun removeTimeListener(listener: FTimeListener): Boolean||
 public final infix fun removeTimeListeners(listeners: Array< FTimeListener >): Unit||
 public final infix fun removeTimeListeners(listeners: Collection<FTimeListener>): Unit||
