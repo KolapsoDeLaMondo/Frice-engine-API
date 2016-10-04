@@ -22,9 +22,9 @@ protected open fun customDraw(g: Graphics2D): Unit||
 public final infix fun addObject(obj: AbstractObject): Unit|添加对象到游戏窗口|
 public final infix fun addObjects(objs: Array< AbstractObject >): Unit|添加对象到游戏窗口|
 public final infix fun addObjects(objs: Collection< AbstractObject >): Unit|添加对象到游戏窗口|
-public final infix fun removeObject(obj: AbstractObject): Unit||
-public final infix fun removeObjects(objs: Array< AbstractObject >): Unit||
-public final infix fun removeObjects(objs: Collection< AbstractObject >): Unit||
+public final infix fun removeObject(obj: AbstractObject): Unit|从游戏窗口移除对象|
+public final infix fun removeObjects(objs: Array< AbstractObject >): Unit|从游戏窗口移除对象|
+public final infix fun removeObjects(objs: Collection< AbstractObject >): Unit|从游戏窗口移除对象|
 public final infix fun addTimeListener(listener: FTimeListener): Boolean||
 public final infix fun addTimeListeners(listeners: Array< FTimeListener >): Unit||
 public final infix fun addTimeListeners(listeners: Collection< FTimeListener >): Unit||
