@@ -16,7 +16,11 @@ API
 
 方法|用法|
 -----|-----|  
-public final infix fun addObjects(objs: Collection<AbstractObject>): Unit||
+public final infix fun addObjects(objs: Collection<AbstractObject>): Unit|将对象加入游戏窗口|
+public final infix fun addObjects(objs: Array<AbstractObject>): Unit||
+public final infix fun addObject(obj: AbstractObject): Unit||
+
+
 
 
 
