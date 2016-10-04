@@ -32,7 +32,13 @@ public final infix fun removeTimeListener(listener: FTimeListener): Boolean||
 public final infix fun removeTimeListeners(listeners: Array< FTimeListener >): Unit||
 public final infix fun removeTimeListeners(listeners: Collection<FTimeListener>): Unit||
 ~~setBack~~||
-
+public final infix fun setCursor(o: ImageObject): Unit||
+public final infix fun setCursor(o: ImageResource): Unit||
+public final fun getScreenCut(): ImageResource||
+~~setAutoGC~~||
+public open fun setBounds(x: Int, y: Int, width: Int, height: Int): Unit||
+public open infix fun setBounds(r: Rectangle): Unit||
+public void setTitle(String title)|（从javax.swing.JFrame继承）|
 
 
 
