@@ -12,5 +12,12 @@ protected open fun onLoseFocus(e: OnWindowEvent?): Unit||
 protected open fun onFocus(e: OnWindowEvent?): Unit|在游戏窗口获得焦点时触发|
 protected open fun customDraw(g: Graphics2D): Unit||
 
+API  
+
+方法|用法|
+-----|-----|  
+public final infix fun addObjects(objs: Collection<AbstractObject>): Unit||
+
+
 
 
