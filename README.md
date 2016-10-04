@@ -5,7 +5,7 @@ Frice-engine：https://github.com/icela/FriceEngine
 
 |Frice Engine 软件包                 ||
 :-------------------|:----:
-| [org.frice.game](org_force_game/README.md)                     ||
+| [org.frice.game](org.force.game/README.md)                     ||
 | org.frice.game.anim                ||
 | org.frice.game.anim.move           ||
 | org.frice.game.scale               ||
