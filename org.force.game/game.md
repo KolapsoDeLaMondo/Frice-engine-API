@@ -29,8 +29,8 @@ public final infix fun addTimeListener(listener: FTimeListener): Boolean|添加�
 public final infix fun addTimeListeners(listeners: Array< FTimeListener >): Unit|添加一组计时器，当计时器超时时被调用|
 public final infix fun addTimeListeners(listeners: Collection< FTimeListener >): Unit|添加一组计时器，当计时器超时时被调用|
 public final infix fun removeTimeListener(listener: FTimeListener): Boolean|移除一个计时器|
-public final infix fun removeTimeListeners(listeners: Array< FTimeListener >): Unit|移除计时器|
-public final infix fun removeTimeListeners(listeners: Collection<FTimeListener>): Unit|移除计时器|
+public final infix fun removeTimeListeners(listeners: Array< FTimeListener >): Unit|移除一组计时器|
+public final infix fun removeTimeListeners(listeners: Collection<FTimeListener>): Unit|移除一组计时器|
 ~~setBack~~||
 public final infix fun setCursor(o: ImageObject): Unit||
 public final infix fun setCursor(o: ImageResource): Unit||
