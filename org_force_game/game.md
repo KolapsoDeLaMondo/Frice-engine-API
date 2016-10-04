@@ -25,6 +25,11 @@ public final infix fun addObjects(objs: Collection< AbstractObject >): Unit|å°†å
 public final infix fun removeObject(obj: AbstractObject): Unit||
 public final infix fun removeObjects(objs: Array< AbstractObject >): Unit||
 public final infix fun removeObjects(objs: Collection< AbstractObject >): Unit||
+public final infix fun addTimeListener(listener: FTimeListener): Boolean||
+public final infix fun addTimeListeners(listeners: Array< FTimeListener >): Unit||
+
+
+
 
 
 
