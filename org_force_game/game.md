@@ -39,6 +39,7 @@ public final fun getScreenCut(): ImageResource||
 public open fun setBounds(x: Int, y: Int, width: Int, height: Int): Unit||
 public open infix fun setBounds(r: Rectangle): Unit||
 public void setTitle(String title)|（从javax.swing.JFrame继承）|
+~~setLoseFocusChangeColor~~||
 
 
 
